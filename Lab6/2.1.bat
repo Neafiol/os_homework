@@ -1,2 +1,3 @@
 echo %computername%
-mkdir \\%computername%\temp
+
+net share temp=C:\LAB6
