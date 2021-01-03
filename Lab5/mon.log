@@ -1,0 +1,928 @@
+
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+3520212 K used memory
+1305712 K used swap
+0 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+3646856 K used memory
+1305712 K used swap
+2 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+3772840 K used memory
+1305712 K used swap
+4 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+3900104 K used memory
+1305712 K used swap
+6 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 3.1  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4028636 K used memory
+1305712 K used swap
+8 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 3.9  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4156896 K used memory
+1305712 K used swap
+10 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 4.7  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4283588 K used memory
+1305712 K used swap
+12 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 5.5  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.9  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4424284 K used memory
+1305712 K used swap
+14 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 6.3  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.9  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4553852 K used memory
+1305712 K used swap
+16 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 7.0  101 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4672228 K used memory
+1305712 K used swap
+18 seconds
+=========
+%MEM %CPU COMMAND
+ 7.8  101 bash mem.sh
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4799364 K used memory
+1305712 K used swap
+20 seconds
+=========
+%MEM %CPU COMMAND
+ 8.6  101 bash mem.sh
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+4926992 K used memory
+1305712 K used swap
+22 seconds
+=========
+%MEM %CPU COMMAND
+ 9.4  101 bash mem.sh
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+5052328 K used memory
+1305712 K used swap
+24 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5180484 K used memory
+1305712 K used swap
+26 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5305744 K used memory
+1305712 K used swap
+28 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5434280 K used memory
+1305712 K used swap
+30 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5574572 K used memory
+1305712 K used swap
+32 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5693480 K used memory
+1305712 K used swap
+34 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5818748 K used memory
+1305712 K used swap
+36 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+5944264 K used memory
+1305712 K used swap
+38 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+6072740 K used memory
+1305712 K used swap
+40 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+16.5  101 bash mem.sh
+6197868 K used memory
+1297264 K used swap
+42 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+17.2  101 bash mem.sh
+6345236 K used memory
+1297008 K used swap
+44 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+17.9  101 bash mem.sh
+6533840 K used memory
+1296752 K used swap
+46 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+18.7  101 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+6658816 K used memory
+1296752 K used swap
+48 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+19.4  101 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+6782752 K used memory
+1290864 K used swap
+50 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+20.2  101 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+6917868 K used memory
+1290864 K used swap
+52 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+21.0 99.3 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7043432 K used memory
+1290864 K used swap
+54 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+21.8 99.3 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7145880 K used memory
+1290864 K used swap
+56 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+22.5 99.4 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7248040 K used memory
+1290864 K used swap
+58 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+ 2.4  0.9 /usr/bin/gnome-shell
+23.3 99.4 bash mem.sh
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7373252 K used memory
+1290864 K used swap
+60 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+24.1 99.5 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7501212 K used memory
+1290864 K used swap
+62 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+24.9 99.5 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7640560 K used memory
+1290864 K used swap
+64 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+25.7 99.6 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7770160 K used memory
+1290864 K used swap
+66 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+26.5 99.6 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+7887176 K used memory
+1290864 K used swap
+68 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+27.2 99.6 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8015068 K used memory
+1290864 K used swap
+70 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+28.0 99.7 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8135124 K used memory
+1290864 K used swap
+72 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+28.8 99.7 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8262508 K used memory
+1290864 K used swap
+74 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+29.6 99.8 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8388888 K used memory
+1290864 K used swap
+76 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+30.3 99.8 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8516764 K used memory
+1290864 K used swap
+78 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+31.1 99.8 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8644456 K used memory
+1290864 K used swap
+80 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+31.9 99.9 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8771648 K used memory
+1290864 K used swap
+82 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+32.7 99.9 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+8898348 K used memory
+1290864 K used swap
+84 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+33.5 99.9 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9026532 K used memory
+1290864 K used swap
+86 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+34.3 99.9 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9154620 K used memory
+1290864 K used swap
+89 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+35.0  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9278116 K used memory
+1291120 K used swap
+91 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+35.8  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9405876 K used memory
+1291120 K used swap
+93 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+36.6  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9531968 K used memory
+1291120 K used swap
+95 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+37.4  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9659224 K used memory
+1291120 K used swap
+97 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+38.2  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9786004 K used memory
+1291376 K used swap
+99 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+39.0  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+9913020 K used memory
+1291376 K used swap
+101 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+39.7  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10035068 K used memory
+1291376 K used swap
+103 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+40.5  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10148928 K used memory
+1291376 K used swap
+105 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+41.2  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10256188 K used memory
+1291376 K used swap
+107 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+42.0  100 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10384368 K used memory
+1291376 K used swap
+109 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+42.8  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10512188 K used memory
+1291376 K used swap
+111 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+43.6  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10639488 K used memory
+1291376 K used swap
+113 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+44.4  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10766592 K used memory
+1291376 K used swap
+115 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+45.1  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.8  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+10895116 K used memory
+1291376 K used swap
+117 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+45.9  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11014884 K used memory
+1291376 K used swap
+119 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+46.7  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11143388 K used memory
+1291376 K used swap
+121 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+47.4  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11271672 K used memory
+1291632 K used swap
+123 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+48.2  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11399008 K used memory
+1291632 K used swap
+125 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+49.0  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11526008 K used memory
+1291888 K used swap
+127 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+49.8  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11652036 K used memory
+1292400 K used swap
+129 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+50.6  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11779340 K used memory
+1293168 K used swap
+131 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+51.3  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+11901516 K used memory
+1293936 K used swap
+133 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+52.1  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12029652 K used memory
+1293936 K used swap
+135 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+52.9  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12151456 K used memory
+1294192 K used swap
+137 seconds
+=========
+%MEM %CPU COMMAND
+ 7.7  1.2 telegram-desktop --
+53.7  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12279804 K used memory
+1294704 K used swap
+139 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+54.4  100 bash mem.sh
+ 2.4  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12406472 K used memory
+1294960 K used swap
+141 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+55.2  100 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12526688 K used memory
+1295216 K used swap
+143 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+55.9 99.7 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12647660 K used memory
+1295216 K used swap
+145 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+56.7 99.7 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12775104 K used memory
+1295472 K used swap
+147 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+57.5 99.7 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+12902536 K used memory
+1295984 K used swap
+149 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+58.3 99.7 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+13029448 K used memory
+1296240 K used swap
+151 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+59.0 99.8 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+13153464 K used memory
+1296752 K used swap
+153 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+59.8 99.8 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.7  0.8 /snap/slack/34/usr/lib/slack/slack --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-color-profile=srgb --field-trial-handle=15705059893910066773,7531271290984190178,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WebRtcHideLocalIpsWithMdns --disable-gpu-compositing --lang=en-US --enable-crash-reporter=77822a0c-2950-47d6-8b56-66752382781b,no_channel --global-crash-keys=77822a0c-2950-47d6-8b56-66752382781b,no_channel,_productName=Slack,_version=4.12.0 --standard-schemes=slack-webapp-dev --secure-schemes=slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --streaming-schemes --app-path=/snap/slack/34/usr/lib/slack/resources/app.asar --enable-sandbox --native-window-open --preload=/snap/slack/34/usr/lib/slack/resources/app.asar/dist/preload.bundle.js --context-isolation --background-color=#FFFFFF --enable-blink-features=EventTiming --enable-spellcheck --enable-websql --disable-electron-site-instance-overrides --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100 --window-type=main
+13278860 K used memory
+1296752 K used swap
+155 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+60.6 99.8 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+13402208 K used memory
+1295984 K used swap
+157 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+61.4 99.8 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+13529172 K used memory
+1295984 K used swap
+159 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+62.1 99.8 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+13657192 K used memory
+1295984 K used swap
+161 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+62.9 99.8 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+13777344 K used memory
+1296496 K used swap
+163 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+63.6 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+13899216 K used memory
+1297008 K used swap
+165 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+64.4 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14007908 K used memory
+1297776 K used swap
+167 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+65.2 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14135588 K used memory
+1298032 K used swap
+169 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+66.0 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14261416 K used memory
+1297264 K used swap
+171 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+66.7 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14388240 K used memory
+1297520 K used swap
+173 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+67.5 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14515192 K used memory
+1297520 K used swap
+175 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+68.3 99.9 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14641436 K used memory
+1297776 K used swap
+178 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+69.1  100 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14769776 K used memory
+1298288 K used swap
+180 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+69.9  100 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+14895096 K used memory
+1298800 K used swap
+182 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+70.6  100 bash mem.sh
+ 2.3  0.9 /usr/bin/gnome-shell
+ 1.6  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15018640 K used memory
+1303152 K used swap
+184 seconds
+=========
+%MEM %CPU COMMAND
+ 7.6  1.2 telegram-desktop --
+71.4  100 bash mem.sh
+ 2.2  0.9 /usr/bin/gnome-shell
+ 1.5  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15140584 K used memory
+1313392 K used swap
+186 seconds
+=========
+%MEM %CPU COMMAND
+ 7.5  1.2 telegram-desktop --
+72.2  100 bash mem.sh
+ 2.2  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15257092 K used memory
+1315952 K used swap
+188 seconds
+=========
+%MEM %CPU COMMAND
+ 7.5  1.2 telegram-desktop --
+72.9  100 bash mem.sh
+ 2.1  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15332280 K used memory
+1366640 K used swap
+190 seconds
+=========
+%MEM %CPU COMMAND
+ 7.5  1.2 telegram-desktop --
+73.7  100 bash mem.sh
+ 2.0  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15358608 K used memory
+1467248 K used swap
+192 seconds
+=========
+%MEM %CPU COMMAND
+ 7.5  1.2 telegram-desktop --
+74.4  100 bash mem.sh
+ 2.0  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15288728 K used memory
+1656688 K used swap
+194 seconds
+=========
+%MEM %CPU COMMAND
+75.2  100 bash mem.sh
+ 7.5  1.2 telegram-desktop --
+ 2.0  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15350620 K used memory
+1751664 K used swap
+196 seconds
+=========
+%MEM %CPU COMMAND
+75.7 99.4 bash mem.sh
+ 7.4  1.2 telegram-desktop --
+ 1.9  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15407876 K used memory
+1816840 K used swap
+198 seconds
+=========
+%MEM %CPU COMMAND
+75.9 98.7 bash mem.sh
+ 7.0  1.2 telegram-desktop --
+ 1.9  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15426904 K used memory
+1887464 K used swap
+201 seconds
+=========
+%MEM %CPU COMMAND
+76.2 95.8 bash mem.sh
+ 6.1  1.2 telegram-desktop --
+ 1.9  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15463964 K used memory
+2065528 K used swap
+207 seconds
+=========
+%MEM %CPU COMMAND
+76.5 95.4 bash mem.sh
+ 6.0  1.2 telegram-desktop --
+ 1.8  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15489296 K used memory
+2097008 K used swap
+210 seconds
+=========
+%MEM %CPU COMMAND
+78.1 73.6 bash mem.sh
+ 6.0  1.2 telegram-desktop --
+ 1.8  0.9 /usr/bin/gnome-shell
+ 1.4  1.0 /snap/discord/119/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=11260711172757180928,169887556300293685,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --enable-crash-reporter=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel --global-crash-keys=930685da-b34a-4d4a-9b89-dffde64e1b4a,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/119/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/neafiol/snap/discord/119/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+15548100 K used memory
+2097148 K used swap
+281 seconds
+=========

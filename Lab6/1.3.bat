@@ -1,0 +1,1 @@
+copy /y /B C:\LAB6\* filelist.txt

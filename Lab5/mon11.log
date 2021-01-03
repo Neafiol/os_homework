@@ -1,0 +1,969 @@
+
+%MEM %CPU COMMAND
+ 6.1 73.7 /snap/pycharm-professional/226/jbr/bin/java -classpath /snap/pycharm-professional/226/lib/bootstrap.jar:/snap/pycharm-professional/226/lib/extensions.jar:/snap/pycharm-professional/226/lib/util.jar:/snap/pycharm-professional/226/lib/jdom.jar:/snap/pycharm-professional/226/lib/log4j.jar:/snap/pycharm-professional/226/lib/jna.jar -Xms128m -Xmx1986m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/neafiol/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/neafiol/java_error_in_pycharm_.hprof -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharm2020.3 -Djb.vmOptionsFile=/home/neafiol/.config/JetBrains/PyCharm2020.3/pycharm64.vmoptions -Didea.platform.prefix=Python com.intellij.idea.Main
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 3.1  1.1 /home/neafiol/.tabnine/3.2.43/x86_64-unknown-linux-musl/TabNine --client PyCharm --no-lsp true --client-metadata pluginVersion=0.2.7 clientIsUltimate=false clientChannel=production clientVersion=2020.3 clientApiVersion=PY-203.5981.165 ide-restart-counter=0 --no_bootstrap
+ 2.3  0.3 /usr/sbin/mysqld
+5342512 K used memory
+0 seconds
+=========
+%MEM %CPU COMMAND
+ 6.1 72.6 /snap/pycharm-professional/226/jbr/bin/java -classpath /snap/pycharm-professional/226/lib/bootstrap.jar:/snap/pycharm-professional/226/lib/extensions.jar:/snap/pycharm-professional/226/lib/util.jar:/snap/pycharm-professional/226/lib/jdom.jar:/snap/pycharm-professional/226/lib/log4j.jar:/snap/pycharm-professional/226/lib/jna.jar -Xms128m -Xmx1986m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/neafiol/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/neafiol/java_error_in_pycharm_.hprof -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharm2020.3 -Djb.vmOptionsFile=/home/neafiol/.config/JetBrains/PyCharm2020.3/pycharm64.vmoptions -Didea.platform.prefix=Python com.intellij.idea.Main
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 3.1  1.0 /home/neafiol/.tabnine/3.2.43/x86_64-unknown-linux-musl/TabNine --client PyCharm --no-lsp true --client-metadata pluginVersion=0.2.7 clientIsUltimate=false clientChannel=production clientVersion=2020.3 clientApiVersion=PY-203.5981.165 ide-restart-counter=0 --no_bootstrap
+ 2.3  0.3 /usr/sbin/mysqld
+5473872 K used memory
+2 seconds
+=========
+%MEM %CPU COMMAND
+ 6.1 71.1 /snap/pycharm-professional/226/jbr/bin/java -classpath /snap/pycharm-professional/226/lib/bootstrap.jar:/snap/pycharm-professional/226/lib/extensions.jar:/snap/pycharm-professional/226/lib/util.jar:/snap/pycharm-professional/226/lib/jdom.jar:/snap/pycharm-professional/226/lib/log4j.jar:/snap/pycharm-professional/226/lib/jna.jar -Xms128m -Xmx1986m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/neafiol/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/neafiol/java_error_in_pycharm_.hprof -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharm2020.3 -Djb.vmOptionsFile=/home/neafiol/.config/JetBrains/PyCharm2020.3/pycharm64.vmoptions -Didea.platform.prefix=Python com.intellij.idea.Main
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 3.1  1.0 /home/neafiol/.tabnine/3.2.43/x86_64-unknown-linux-musl/TabNine --client PyCharm --no-lsp true --client-metadata pluginVersion=0.2.7 clientIsUltimate=false clientChannel=production clientVersion=2020.3 clientApiVersion=PY-203.5981.165 ide-restart-counter=0 --no_bootstrap
+ 2.3  0.3 /usr/sbin/mysqld
+5605504 K used memory
+4 seconds
+=========
+%MEM %CPU COMMAND
+ 6.1 70.4 /snap/pycharm-professional/226/jbr/bin/java -classpath /snap/pycharm-professional/226/lib/bootstrap.jar:/snap/pycharm-professional/226/lib/extensions.jar:/snap/pycharm-professional/226/lib/util.jar:/snap/pycharm-professional/226/lib/jdom.jar:/snap/pycharm-professional/226/lib/log4j.jar:/snap/pycharm-professional/226/lib/jna.jar -Xms128m -Xmx1986m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/neafiol/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/neafiol/java_error_in_pycharm_.hprof -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharm2020.3 -Djb.vmOptionsFile=/home/neafiol/.config/JetBrains/PyCharm2020.3/pycharm64.vmoptions -Didea.platform.prefix=Python com.intellij.idea.Main
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 3.1  1.0 /home/neafiol/.tabnine/3.2.43/x86_64-unknown-linux-musl/TabNine --client PyCharm --no-lsp true --client-metadata pluginVersion=0.2.7 clientIsUltimate=false clientChannel=production clientVersion=2020.3 clientApiVersion=PY-203.5981.165 ide-restart-counter=0 --no_bootstrap
+ 2.3 86.8 bash mem.sh
+5732040 K used memory
+6 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 3.1  1.0 /home/neafiol/.tabnine/3.2.43/x86_64-unknown-linux-musl/TabNine --client PyCharm --no-lsp true --client-metadata pluginVersion=0.2.7 clientIsUltimate=false clientChannel=production clientVersion=2020.3 clientApiVersion=PY-203.5981.165 ide-restart-counter=0 --no_bootstrap
+ 3.0 90.0 bash mem.sh
+ 2.3  0.3 /usr/sbin/mysqld
+4933004 K used memory
+8 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 3.8 92.0 bash mem.sh
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+4523104 K used memory
+10 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 4.5 93.3 bash mem.sh
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+4649644 K used memory
+12 seconds
+=========
+%MEM %CPU COMMAND
+ 5.3 94.4 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  8.3 /opt/google/chrome/chrome
+4777804 K used memory
+14 seconds
+=========
+%MEM %CPU COMMAND
+ 6.0 95.2 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+3830232 K used memory
+16 seconds
+=========
+%MEM %CPU COMMAND
+ 6.8 95.8 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+3956580 K used memory
+18 seconds
+=========
+%MEM %CPU COMMAND
+ 7.5 96.2 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+4084036 K used memory
+20 seconds
+=========
+%MEM %CPU COMMAND
+ 8.3 96.6 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+4213916 K used memory
+22 seconds
+=========
+%MEM %CPU COMMAND
+ 9.1 97.0 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+4345672 K used memory
+24 seconds
+=========
+%MEM %CPU COMMAND
+ 9.9 97.3 bash mem.sh
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+4476380 K used memory
+26 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+4606204 K used memory
+28 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+4731476 K used memory
+30 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+4856524 K used memory
+32 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+4981664 K used memory
+34 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+5112544 K used memory
+36 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+5239752 K used memory
+38 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.3 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+5368600 K used memory
+40 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+5499984 K used memory
+42 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+5631300 K used memory
+44 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+ 1.8  0.4 /usr/bin/gnome-software --gapplication-service
+5760980 K used memory
+46 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+18.6 98.9 bash mem.sh
+5891020 K used memory
+48 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+19.4 99.0 bash mem.sh
+6021120 K used memory
+50 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+20.2 99.0 bash mem.sh
+ 1.9  6.5 /usr/bin/gnome-shell
+6151356 K used memory
+52 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+21.0 99.1 bash mem.sh
+ 1.9  6.5 /usr/bin/gnome-shell
+6281544 K used memory
+54 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+21.8 99.2 bash mem.sh
+ 1.9  6.5 /usr/bin/gnome-shell
+6411184 K used memory
+56 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+22.6 99.2 bash mem.sh
+ 1.9  6.5 /usr/bin/gnome-shell
+6541512 K used memory
+58 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+23.4 99.3 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+6672244 K used memory
+60 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+24.2 99.3 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+6810588 K used memory
+62 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+25.0 99.5 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+6934148 K used memory
+64 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+25.8 99.5 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+7062564 K used memory
+66 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.5 /opt/mssql/bin/sqlservr
+26.6 99.5 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+7191412 K used memory
+68 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+27.4 99.6 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+7321172 K used memory
+70 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+28.2 99.6 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+7450812 K used memory
+72 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+29.0 99.6 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.5 /usr/bin/gnome-shell
+7579128 K used memory
+74 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+29.8 99.7 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.5 /usr/bin/gnome-shell
+7708600 K used memory
+76 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+30.6 99.7 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.4 /usr/bin/gnome-shell
+7839088 K used memory
+78 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+31.4 99.7 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.4 /usr/bin/gnome-shell
+7969168 K used memory
+80 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+32.2 99.7 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+8097676 K used memory
+82 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+33.0 99.8 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+8228216 K used memory
+84 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+33.8 99.8 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.4 /usr/bin/gnome-shell
+8357836 K used memory
+86 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+34.6 99.8 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+8486296 K used memory
+88 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+35.4 99.9 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+8616616 K used memory
+90 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+36.1 99.9 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.4 /usr/bin/gnome-shell
+8743032 K used memory
+92 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+36.9 99.9 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+8874404 K used memory
+94 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+37.7 99.9 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9005180 K used memory
+96 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+38.5 99.9 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9135668 K used memory
+98 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+39.3  100 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9265404 K used memory
+101 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+40.1  100 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9396224 K used memory
+103 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+40.9  100 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9527144 K used memory
+105 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+41.7 99.1 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 2.0  6.4 /usr/bin/gnome-shell
+9657504 K used memory
+107 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+42.5 99.1 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9787160 K used memory
+109 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+43.3 99.2 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+9915828 K used memory
+111 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+44.1 99.2 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10045140 K used memory
+113 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+44.9 99.2 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10171264 K used memory
+115 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+45.6 99.2 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10295992 K used memory
+117 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+46.4 99.3 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10418552 K used memory
+119 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+47.2 99.3 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10540100 K used memory
+121 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+47.9 99.3 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10659156 K used memory
+123 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+48.7 99.3 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10780928 K used memory
+125 seconds
+=========
+%MEM %CPU COMMAND
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+49.4 99.4 bash mem.sh
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+10900732 K used memory
+127 seconds
+=========
+%MEM %CPU COMMAND
+50.2 99.4 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11017548 K used memory
+129 seconds
+=========
+%MEM %CPU COMMAND
+50.9 99.4 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11137588 K used memory
+131 seconds
+=========
+%MEM %CPU COMMAND
+51.7 99.4 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11257696 K used memory
+133 seconds
+=========
+%MEM %CPU COMMAND
+52.4 99.5 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11376640 K used memory
+135 seconds
+=========
+%MEM %CPU COMMAND
+53.2 99.5 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11503064 K used memory
+137 seconds
+=========
+%MEM %CPU COMMAND
+54.0 99.5 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11630576 K used memory
+139 seconds
+=========
+%MEM %CPU COMMAND
+54.8 99.5 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11760584 K used memory
+141 seconds
+=========
+%MEM %CPU COMMAND
+55.6 99.5 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.9  6.4 /usr/bin/gnome-shell
+11888544 K used memory
+143 seconds
+=========
+%MEM %CPU COMMAND
+56.4 99.6 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.8  6.4 /usr/bin/gnome-shell
+12017336 K used memory
+145 seconds
+=========
+%MEM %CPU COMMAND
+57.2 99.6 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.8  6.4 /usr/bin/gnome-shell
+12147464 K used memory
+147 seconds
+=========
+%MEM %CPU COMMAND
+58.0 99.6 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.8  6.4 /usr/bin/gnome-shell
+12272592 K used memory
+149 seconds
+=========
+%MEM %CPU COMMAND
+58.8 99.6 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.8  6.4 /usr/bin/gnome-shell
+12396840 K used memory
+151 seconds
+=========
+%MEM %CPU COMMAND
+59.5 99.6 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.8  6.4 /usr/bin/gnome-shell
+12522160 K used memory
+153 seconds
+=========
+%MEM %CPU COMMAND
+60.3 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+12650788 K used memory
+155 seconds
+=========
+%MEM %CPU COMMAND
+61.1 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+12779136 K used memory
+157 seconds
+=========
+%MEM %CPU COMMAND
+61.9 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+12907620 K used memory
+159 seconds
+=========
+%MEM %CPU COMMAND
+62.7 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13036416 K used memory
+161 seconds
+=========
+%MEM %CPU COMMAND
+63.5 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13165392 K used memory
+163 seconds
+=========
+%MEM %CPU COMMAND
+64.3 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13295692 K used memory
+165 seconds
+=========
+%MEM %CPU COMMAND
+65.1 99.7 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13423056 K used memory
+167 seconds
+=========
+%MEM %CPU COMMAND
+65.8 99.8 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.3  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13549820 K used memory
+169 seconds
+=========
+%MEM %CPU COMMAND
+66.6 99.8 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13675616 K used memory
+171 seconds
+=========
+%MEM %CPU COMMAND
+67.4 99.8 bash mem.sh
+ 5.0  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.7  6.4 /usr/bin/gnome-shell
+13806192 K used memory
+173 seconds
+=========
+%MEM %CPU COMMAND
+68.2 99.8 bash mem.sh
+ 4.9  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  6.4 /usr/bin/gnome-shell
+13931760 K used memory
+175 seconds
+=========
+%MEM %CPU COMMAND
+69.0 99.8 bash mem.sh
+ 4.9  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  6.4 /usr/bin/gnome-shell
+14060004 K used memory
+177 seconds
+=========
+%MEM %CPU COMMAND
+69.8 99.8 bash mem.sh
+ 4.8  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  6.4 /usr/bin/gnome-shell
+14168216 K used memory
+179 seconds
+=========
+%MEM %CPU COMMAND
+70.6 99.8 bash mem.sh
+ 4.8  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+14293472 K used memory
+181 seconds
+=========
+%MEM %CPU COMMAND
+71.3 99.8 bash mem.sh
+ 4.8  2.4 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+14414000 K used memory
+183 seconds
+=========
+%MEM %CPU COMMAND
+72.1 99.8 bash mem.sh
+ 4.8  2.5 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+14536416 K used memory
+185 seconds
+=========
+%MEM %CPU COMMAND
+72.9 99.9 bash mem.sh
+ 4.8  2.5 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+14664456 K used memory
+187 seconds
+=========
+%MEM %CPU COMMAND
+73.6 99.9 bash mem.sh
+ 4.8  2.5 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+14792796 K used memory
+189 seconds
+=========
+%MEM %CPU COMMAND
+74.4 99.9 bash mem.sh
+ 4.8  2.5 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+14918124 K used memory
+191 seconds
+=========
+%MEM %CPU COMMAND
+75.2 99.9 bash mem.sh
+ 4.8  2.6 /opt/mssql/bin/sqlservr
+ 2.2  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+15045148 K used memory
+193 seconds
+=========
+%MEM %CPU COMMAND
+75.9 99.9 bash mem.sh
+ 4.7  2.6 /opt/mssql/bin/sqlservr
+ 2.1  0.2 /usr/sbin/mysqld
+ 1.6  0.4 /usr/bin/gnome-software --gapplication-service
+15170336 K used memory
+195 seconds
+=========
+%MEM %CPU COMMAND
+76.7 99.9 bash mem.sh
+ 4.7  2.6 /opt/mssql/bin/sqlservr
+ 2.1  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15290300 K used memory
+197 seconds
+=========
+%MEM %CPU COMMAND
+77.5 99.9 bash mem.sh
+ 4.6  2.6 /opt/mssql/bin/sqlservr
+ 2.1  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15410148 K used memory
+199 seconds
+=========
+%MEM %CPU COMMAND
+78.3  100 bash mem.sh
+ 4.5  2.6 /opt/mssql/bin/sqlservr
+ 2.1  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15528900 K used memory
+202 seconds
+=========
+%MEM %CPU COMMAND
+78.9 99.5 bash mem.sh
+ 4.3  2.8 /opt/mssql/bin/sqlservr
+ 2.0  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15554776 K used memory
+204 seconds
+=========
+%MEM %CPU COMMAND
+79.5 99.5 bash mem.sh
+ 4.1  2.9 /opt/mssql/bin/sqlservr
+ 1.8  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15560764 K used memory
+206 seconds
+=========
+%MEM %CPU COMMAND
+80.1 99.5 bash mem.sh
+ 4.0  3.1 /opt/mssql/bin/sqlservr
+ 1.8  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15576748 K used memory
+208 seconds
+=========
+%MEM %CPU COMMAND
+80.6 99.5 bash mem.sh
+ 3.8  3.3 /opt/mssql/bin/sqlservr
+ 1.7  0.2 /usr/sbin/mysqld
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+15583112 K used memory
+210 seconds
+=========
+%MEM %CPU COMMAND
+81.2 99.6 bash mem.sh
+ 3.5  3.5 /opt/mssql/bin/sqlservr
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+ 1.5  0.2 /usr/sbin/mysqld
+15569628 K used memory
+212 seconds
+=========
+%MEM %CPU COMMAND
+81.7 99.6 bash mem.sh
+ 3.2  3.7 /opt/mssql/bin/sqlservr
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+ 1.4  0.2 /usr/sbin/mysqld
+15545748 K used memory
+214 seconds
+=========
+%MEM %CPU COMMAND
+82.3 99.6 bash mem.sh
+ 3.0  3.7 /opt/mssql/bin/sqlservr
+ 1.5  0.4 /usr/bin/gnome-software --gapplication-service
+ 1.3  0.2 /usr/sbin/mysqld
+15523312 K used memory
+216 seconds
+=========
+%MEM %CPU COMMAND
+83.0 99.7 bash mem.sh
+ 2.8  3.8 /opt/mssql/bin/sqlservr
+ 1.3  0.4 /usr/bin/gnome-software --gapplication-service
+ 1.2  0.2 /usr/sbin/mysqld
+15541208 K used memory
+218 seconds
+=========
+%MEM %CPU COMMAND
+83.8 99.7 bash mem.sh
+ 2.7  3.8 /opt/mssql/bin/sqlservr
+ 1.1  0.4 /usr/bin/gnome-software --gapplication-service
+ 1.1  0.2 /usr/sbin/mysqld
+15583952 K used memory
+220 seconds
+=========
+%MEM %CPU COMMAND
+84.5 99.7 bash mem.sh
+ 2.5  3.8 /opt/mssql/bin/sqlservr
+ 1.0  0.2 /usr/sbin/mysqld
+ 0.8  6.4 /usr/bin/gnome-shell
+15599772 K used memory
+222 seconds
+=========
+%MEM %CPU COMMAND
+85.4 99.5 bash mem.sh
+ 2.2  3.9 /opt/mssql/bin/sqlservr
+ 0.9  0.2 /usr/sbin/mysqld
+ 0.8  6.3 /usr/bin/gnome-shell
+15640356 K used memory
+225 seconds
+=========
+%MEM %CPU COMMAND
+86.2 99.6 bash mem.sh
+ 1.9  3.9 /opt/mssql/bin/sqlservr
+ 0.8  6.3 /usr/bin/gnome-shell
+ 0.8  0.2 /usr/sbin/mysqld
+15648084 K used memory
+227 seconds
+=========
+%MEM %CPU COMMAND
+86.8 99.7 bash mem.sh
+ 1.7  4.2 /opt/mssql/bin/sqlservr
+ 0.8  6.3 /usr/bin/gnome-shell
+ 0.8  0.2 /usr/sbin/mysqld
+15672612 K used memory
+229 seconds
+=========
+%MEM %CPU COMMAND
+87.4 99.7 bash mem.sh
+ 1.5  4.4 /opt/mssql/bin/sqlservr
+ 0.8  6.3 /usr/bin/gnome-shell
+ 0.7  0.2 /usr/sbin/mysqld
+15665956 K used memory
+231 seconds
+=========
+%MEM %CPU COMMAND
+87.9 99.8 bash mem.sh
+ 1.3  4.5 /opt/mssql/bin/sqlservr
+ 0.8  6.3 /usr/bin/gnome-shell
+ 0.6  0.2 /usr/sbin/mysqld
+15672316 K used memory
+233 seconds
+=========
+%MEM %CPU COMMAND
+88.6 99.8 bash mem.sh
+ 1.3  4.6 /opt/mssql/bin/sqlservr
+ 0.7  6.3 /usr/bin/gnome-shell
+ 0.5  0.2 /usr/sbin/mysqld
+15673608 K used memory
+236 seconds
+=========
+%MEM %CPU COMMAND
+88.9 99.4 bash mem.sh
+ 1.2  4.8 /opt/mssql/bin/sqlservr
+ 0.7  6.3 /usr/bin/gnome-shell
+ 0.5  0.2 /usr/sbin/mysqld
+15690916 K used memory
+238 seconds
+=========
+%MEM %CPU COMMAND
+89.0 99.4 bash mem.sh
+ 1.2  5.0 /opt/mssql/bin/sqlservr
+ 0.7  6.3 /usr/bin/gnome-shell
+ 0.5  0.2 /usr/sbin/mysqld
+15691616 K used memory
+240 seconds
+=========
+%MEM %CPU COMMAND
+89.1 99.4 bash mem.sh
+ 1.2  5.1 /opt/mssql/bin/sqlservr
+ 0.6  6.3 /usr/bin/gnome-shell
+ 0.4  0.2 /usr/sbin/mysqld
+15683604 K used memory
+242 seconds
+=========
+%MEM %CPU COMMAND
+89.3 99.5 bash mem.sh
+ 1.1  5.2 /opt/mssql/bin/sqlservr
+ 0.7  6.3 /usr/bin/gnome-shell
+ 0.4  0.2 /usr/sbin/mysqld
+15691496 K used memory
+244 seconds
+=========

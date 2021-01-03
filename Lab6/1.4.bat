@@ -1,0 +1,1 @@
+del /Q file1, file2

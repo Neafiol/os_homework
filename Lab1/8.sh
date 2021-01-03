@@ -1,0 +1,1 @@
+cat /etc/passwd | tr : " " | sort -nk3  | awk '{ print $1 " - "  $3 }'

@@ -1,0 +1,10 @@
+Sep 28 02:41:16 petr-pc nordvpnd[2267]: debug: Mon Sep 28 02:41:16 2020 Initialization Sequence Completed
+Sep 28 02:41:16 petr-pc nordvpnd[2267]: 2020/09/28 02:41:16 [INFO] Mon Sep 28 02:41:16 2020 Initialization Sequence Completed
+Sep 28 02:41:53 petr-pc nordvpnd[2267]: debug: Mon Sep 28 02:41:53 2020 Initialization Sequence Completed
+Sep 28 02:41:53 petr-pc nordvpnd[2267]: 2020/09/28 02:41:53 [INFO] Mon Sep 28 02:41:53 2020 Initialization Sequence Completed
+Sep 28 13:36:36 petr-pc systemd[1]: Reached target System Initialization.
+Sep 28 13:36:36 petr-pc kernel: [    4.482055] asus_wmi: Initialization: 0x1
+Sep 28 13:41:45 petr-pc nordvpnd[2360]: debug: Mon Sep 28 13:41:45 2020 Initialization Sequence Completed
+Sep 28 13:41:45 petr-pc nordvpnd[2360]: 2020/09/28 13:41:45 [INFO] Mon Sep 28 13:41:45 2020 Initialization Sequence Completed
+Sep 28 15:57:35 petr-pc systemd[1]: Reached target System Initialization.
+Sep 28 15:57:35 petr-pc kernel: [    4.325837] asus_wmi: Initialization: 0x1

@@ -1,0 +1,1 @@
+find /var/log  -name '*.log' | xargs cat | wc -l
