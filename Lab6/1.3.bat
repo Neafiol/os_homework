@@ -1,1 +1,1 @@
-copy /y /B C:\LAB6\* filelist.txt
+dir /b > filelist.txt

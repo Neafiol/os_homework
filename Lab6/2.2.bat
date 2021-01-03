@@ -1,1 +1,1 @@
-xcopy /Z C:\cd \\%computername%\temp
+xcopy /Z C:\Windows\testfile.txt \\%computername%\temp

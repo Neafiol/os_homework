@@ -1,1 +1,1 @@
-del /Q file1, file2
+del /Q wmic.txt
